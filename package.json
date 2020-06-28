@@ -1,0 +1,36 @@
+{
+  "name": "cours-meteo-react",
+  "version": "1.0.0",
+  "description": "Cours sur la création d'une application météo avec React et OpenWeatherMap",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "keywords": [
+    "app",
+    "météo",
+    "react"
+  ],
+  "author": "Brian EPAUD",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "moment": "^2.27.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-moment": "^0.9.7",
+    "react-scripts": "^3.4.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
